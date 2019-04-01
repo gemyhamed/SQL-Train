@@ -1,0 +1,4 @@
+```
+SELECT 
+distinct Extended_step from salary_range_by_job_classification
+```
