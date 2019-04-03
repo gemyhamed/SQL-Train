@@ -1,3 +1,7 @@
+These Are my answers to the 'SQL for Data Science ,University of California, Davis' Course on Coursera  last Assignment
+Course Link : https://www.coursera.org/learn/sql-for-data-science/home/welcome
+
+#Week4
 
 (https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hOlYbrgyEeeTsRKxhJ5OZg_517578844a2fd129650492eda3186cd1_YelpERDiagram.png?expiry=1554422400000&hmac=Hgir2mepfLlEN5sK_g4lOjyfi96BcDUoLqI04YqoYAw)
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
